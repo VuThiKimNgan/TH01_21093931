@@ -1,0 +1,121 @@
+/* Bài 1: Logo Viettien */
+
+/* a. Logo */
+#Viettien
+{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* b. Tên Công ty - 2 color*/
+.CTCP
+{
+    font-size: 50px;
+    font-weight: 300;
+}
+
+.VT
+{
+    font-size: 50px;
+    color: blue;
+    font-weight: bold;
+}
+
+/* Nội dung */
+.Bai1
+{
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#p3
+{
+    font-size: 20px;
+}
+
+/* Button Nam-Nữ */
+.Nam
+{
+   background-color: #303030;
+   color:whitesmoke;
+   width: 180px;
+   height: 50px;
+   font-size: medium;
+   text-align: center;
+   border-radius: 5px;
+
+}
+
+.Nữ
+{
+    background-color: #303030;
+    color:whitesmoke;
+    width: 180px;
+    height: 50px;
+    font-size: medium;
+    text-align: center;
+    border-radius: 5px;
+ 
+ }
+
+/* Bài 2: Các tag phổ biến */
+.Bai2
+{
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+/* a. Tiêu đề */
+#p4
+{
+    margin-left: 530px;
+}
+
+/* b. Button */
+.bt2
+{
+    background-color: #76ee00;
+    color: whitesmoke;
+    font-weight:550;
+    border: none;
+    border-radius: 2.5px;
+    margin: 5px;
+    width: fit-content;
+    height: 28px;
+}
+
+/* Bài 3: Trà gừng */
+/* a. Content */
+.Bai3
+{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+/* Button */
+.Docthem
+{
+    color: whitesmoke;
+    background-color: #00cdcd;
+    height: 40px;
+    width: 140px;
+    border: none;
+}
+
+/* Bài 4: Thư mời */
+
+
+
+
+/* Bài 5: Banner Cafe */
+
+/* Background */
+.Bai5
+{
+    background-image: url();
+}
